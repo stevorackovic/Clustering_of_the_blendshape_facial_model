@@ -1,4 +1,4 @@
-# Clustering_of_the_blendshape_facial_model
+# Clustering of the blendshape facial model
 
 This reporsitory contains scripts used for the paper 'Clustering of the Blendshape Facial Model' that is available at https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9616061&casa_token=HYjbGkT3rN4AAAAA:gcYlhRHvQXrFvyPdIhETSsldBY7Tuwhkiq54KtA5-4wAb3hLXvMuJBESXcNcnbSw3_4pXLm8pE0&tag=1. 
 For a quick recap on the method you cacn check https://stevorackovic.github.io/clustering.html
